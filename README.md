@@ -1,0 +1,2 @@
+# laka.pw
+Link Shortener
