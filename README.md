@@ -1,2 +1,2 @@
 # laka.pw
-Link Shortener
+Link Shortener using Netlify Redirects and Netlify Functions with Supabase
